@@ -1,0 +1,16 @@
+{
+    "name": "daniel.kemeny/factory_idea",
+    "authors": [
+        {
+            "name": "DanielKemeny",
+            "email": "daniel.kemeny@check24.de"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Utils\\": "Utils/",
+            "Utils\\String\\": "Utils/String"
+        }
+    }
+}
